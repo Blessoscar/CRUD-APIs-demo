@@ -1,0 +1,4 @@
+# dependencies
+/node_modules
+# configurations
+/key_dev.js
